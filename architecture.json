@@ -1,0 +1,160 @@
+{
+  "book_id": "classical_roman_lyric_poetry_power_corruption",
+  "title": "The Gilded Cage of the Muse",
+  "tagline": "In the shadow of the Emperor, four poets discover that words can build empires or destroy lives.",
+  "target_words": 70000,
+  "actual_words": 74324,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Transaction of Art",
+    "The Duality of Patronage",
+    "The Corruption of Lyric Purity",
+    "Poetry as Political Weapon"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Morning After the Muse",
+      "words": 3100
+    },
+    {
+      "ch": 2,
+      "title": "The Patron's Study",
+      "words": 2900
+    },
+    {
+      "ch": 3,
+      "title": "The Emperor's Invitation",
+      "words": 3200
+    },
+    {
+      "ch": 4,
+      "title": "The Weight of Stone",
+      "words": 3100
+    },
+    {
+      "ch": 5,
+      "title": "Gallus's Gambit",
+      "words": 3000
+    },
+    {
+      "ch": 6,
+      "title": "Propertius's Shadow Lines",
+      "words": 2900
+    },
+    {
+      "ch": 7,
+      "title": "Tibullus's Rustic Masks",
+      "words": 3100
+    },
+    {
+      "ch": 8,
+      "title": "Ovid's Soap Bubble",
+      "words": 3200
+    },
+    {
+      "ch": 9,
+      "title": "The First Drafts of Flattery",
+      "words": 2900
+    },
+    {
+      "ch": 10,
+      "title": "A Spy in the Scriptorium",
+      "words": 3100
+    },
+    {
+      "ch": 11,
+      "title": "The Subura's Whispered Critique",
+      "words": 3000
+    },
+    {
+      "ch": 12,
+      "title": "Messalla's Calculated Praise",
+      "words": 2900
+    },
+    {
+      "ch": 13,
+      "title": "The Price of a Perfect Couplet",
+      "words": 3200
+    },
+    {
+      "ch": 14,
+      "title": "The Forum's Waiting Stones",
+      "words": 3100
+    },
+    {
+      "ch": 15,
+      "title": "A Rival's Venomous Verse",
+      "words": 3000
+    },
+    {
+      "ch": 16,
+      "title": "The Censor's Red Wax",
+      "words": 3300
+    },
+    {
+      "ch": 17,
+      "title": "Choosing Between Truth and Immortality",
+      "words": 3200
+    },
+    {
+      "ch": 18,
+      "title": "The Recitation Before Power",
+      "words": 3400
+    },
+    {
+      "ch": 19,
+      "title": "Augustus's Unsmiling Nod",
+      "words": 3100
+    },
+    {
+      "ch": 20,
+      "title": "The Chisel's First Bite",
+      "words": 2900
+    },
+    {
+      "ch": 21,
+      "title": "The Betrayal in Dactylic Hexameter",
+      "words": 3300
+    },
+    {
+      "ch": 22,
+      "title": "Exile of the Lightest Heart",
+      "words": 3500
+    },
+    {
+      "ch": 23,
+      "title": "The Monument of Compromise",
+      "words": 3200
+    },
+    {
+      "ch": 24,
+      "title": "Elegy for the Poetae Novi",
+      "words": 3600
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a 'lost' poem by Ovid from within the novel, one deemed too dangerous for the Emperor's contest, exploring a private grief masked as mythology.",
+      "Draft the private correspondence between the patron Messalla and a political rival, discussing his 'stable' of poets as strategic assets.",
+      "Create the journal entries of the tavern keeper Lucius, observing the poets' decline from inspired madmen to cautious courtiers.",
+      "Script a dramatic scene where the four poets confront each other in the Subura tavern after one has seen the final, censored version of his inscribed poem."
+    ],
+    "technical": [
+      "Build a text analysis tool that compares the 'public' inscribed verses of the poets with fragments of their earlier, private work, highlighting linguistic markers of censorship or self-editing.",
+      "Design an interactive map of Augustan Rome marking key locations from the novel (The Grateful Sparrow, Messalla's house, the Forum building site) with pop-ups containing relevant historical context and fictional excerpts."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Robert Graves",
+      "Marguerite Yourcenar",
+      "Tom Stoppard",
+      "Ursula K. Le Guin"
+    ]
+  },
+  "cover_prompt": "A single, elegant hand, smeared with both dark ink and flecks of gold leaf, presses a stylus firmly against a pristine wax tablet, the action caught between creation and defilement, [Detailed Scene & Context: within a sumptuous but oppressive Roman triclinium, where shadows pool beneath a marble table laden with figs and half-empty wine cups; in the background, three other figures are silhouetted against a grand mosaic of the Emperor, their postures tense with conspiracy and envy], [Artistic Style & Medium: in the atmospheric style of Caravaggio and Zdzisław Beksiński, combining stark, dramatic chiaroscuro with unsettling, surreal architectural decay, rendered in hyper-realistic oil painting with impasto texture], [Composition & Camera: book cover framing, an extreme close-up on the hand and tablet, slightly off-center, with a low-angle view that makes the looming mosaic figure dominant and threatening], [Lighting & Color Palette: dramatic tenebrism with a single, harsh light source illuminating the hand and tablet from the left, casting long, deep shadows; a palette of bruised purples, oppressive golds, blood red, and cold marble white, with the ink appearing black as pitch], masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
